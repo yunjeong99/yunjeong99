@@ -2,5 +2,5 @@
 
 Hello, I'm Yun Jeong. I am a developer who creates various services from the perspective of the user and the developer. 
 * :mortar_board: Dona-A university student
-* :seedling: Learning Android with JAVA
-* :pencil2: c, c++, java, javascript
+* :seedling: Mobile App Developer & Server Developer
+* :pencil2: c++, java, kotlin, dart, javascript
